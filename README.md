@@ -87,7 +87,7 @@ sinha-overseas/
 ### 1. Clone the repository
 
 ```bash
-[git clone https://github.com/YOUR-USERNAME/sinha-overseas.git](https://abhishek00912.github.io/Sinha-Overseas-India-website/#contact)
+https://abhishek00912.github.io/Sinha-Overseas-India-website/#contact
 ```
 The website will open in your browser.
 
